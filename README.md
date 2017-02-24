@@ -1,5 +1,5 @@
 # avlearngit
-learning git w/Dawn C.! 
+learning git w/Dawn Childress! 
 # heading 1
 ## heading 2
 ## heading 3
